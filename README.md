@@ -4,9 +4,7 @@ Problem 1: Traditional Object Detection
 
     Find an image containing an object in a cluttered scene (call this image the test image).
     Use OpenCV to extract the object from the image above, and save it to the file system as a new image (call this image the template image).
-    Apply object recognition based on SIFT or SURF local features and descriptors matching offered by the OpenCV library, to find the template in the test image (hint: https://docs.opencv.org/4.6.0/dc/dc3/tutorial_py_matcher.html 
-
-    Links to an external site.).
+    Apply object recognition based on SIFT or SURF local features and descriptors matching offered by the OpenCV library, to find the template in the test image (hint: https://docs.opencv.org/4.6.0/dc/dc3/tutorial_py_matcher.html).
 
 Problem 2: Deep Learning Based Object Detection
 
